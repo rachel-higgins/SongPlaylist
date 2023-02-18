@@ -1,0 +1,7 @@
+Eminem;Lose Yourself;5.23;654000
+Shawn Mendes;Summer of Love;3.04;800000
+Kate Bush;Running Up That Hill;5.01;9000000
+Fleetwood Mac;Dreams;4.18;600500
+Harry Styles;Falling;4.00;4000000
+Harry Styles;Watermelon Sugar;4.30;500
+Shawn Mendes;Bye;3.40;2000
